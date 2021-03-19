@@ -1,6 +1,6 @@
 # GMStranded
 
-##Introduction
+## Introduction
 
 This is the repository of the modded gamemode "GMStranded" for the game Garry's Mod that is used on the DarKFeeliN Stranded server.
 ## Original Authors
